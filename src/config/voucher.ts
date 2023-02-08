@@ -1,0 +1,4 @@
+export default {
+  DEFAULT_VOUCHER_LENGTH: 5,
+  DEFAULT_VOUCHER_SCHEMA: 'MIXED',
+};
